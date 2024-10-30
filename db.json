@@ -171,11 +171,109 @@
     }
 }
 ,
-  "products_of_category": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
+  "products_of_category": {
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Snake Leather Bag",
+            "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
+            "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
+            "price": 458.00,
+            "rate": 4.5,
+            "total_sold": 8795
+        },
+        {
+            "id": 2,
+            "name": "Leather Casual Suit",
+            "description": "This question the Dodo in an offended tone, 'so I can't see you?' She was looking at everything.",
+            "image_url": "https://img.fruugo.com/product/9/67/177401679_0340_0340.jpg",
+            "price": 420.00,
+            "rate": 4.3,
+            "total_sold": 8878
+        },
+        {
+            "id": 3,
+            "name": "Black Leather Bag",
+            "description": "I've said as yet.' 'A cheap sort of meaning in them, after all. \"--SAID I COULD NOT SWIM--\" you.",
+            "image_url": "https://accessorizelondon.in/cdn/shop/products/MA-69003803001_1_a53ec039-01c3-46fe-9a64-3d01a6b7e5d5.jpg",
+            "price": 765.00,
+            "rate": 4.9,
+            "total_sold": 8147
+        },
+        {
+            "id": 4,
+            "name": "Black Nike Shoes",
+            "description": "It was opened by another footman in livery came running out of a globe of goldfish she had to ask.",
+            "image_url": "https://media.gq.com/photos/63d847ef0dad895db53c8686/3:2/w_1192,h_794,c_limit/3525-12D%20TIF%20RGB%20801264-01_SP23_Project212_TM_Shot%2012_038_main.jpg",
+            "price": 390.00,
+            "rate": 4.5,
+            "total_sold": 8795
+        },
+        {
+            "id": 5,
+            "name": "Airtight Microphone",
+            "description": "I!' he replied. 'We quarrelled last March--just before HE went mad, you know--' 'What did they.",
+            "image_url": "https://www.marshallmusic.co.za/wp-content/uploads/2020/03/1-40-1.gif",
+            "price": 230.36,
+            "rate": 4.6,
+            "total_sold": 8795
+        },
+        {
+            "id": 6,
+            "name": "Red Leather Bag",
+            "description": "At last the Gryphon answered, very nearly carried it off. * * * * 'What a curious dream!' said.",
+            "image_url": "https://baginning.com/media/catalog/product/cache/17f7930b9630993becbd36a7c8a76b30/o/1/o1cn015e62252nhccd76xzu__1683739937_4.jpg",
+            "price": 405.00,
+            "rate": 4.5,
+            "total_sold": 8795
+        },
+        {
+            "id": 7,
+            "name": "Orange Leather Bag",
+            "description": "Gryphon, and the procession came opposite to Alice, and she went on again:-- 'You may not have.",
+            "image_url": "https://blog.effortless-style.com/wp-content/uploads/hermes-orange-faux-leather-tote-amazon-find-scaled.jpg",
+            "price": 390.00,
+            "rate": 4.8,
+            "total_sold": 6378
+        },
+        {
+            "id": 8,
+            "name": "Mini Leather Bag",
+            "description": "No room!' they cried out when they liked, so that her neck from being run over; and the three.",
+            "image_url": "https://www.jennikayne.com/cdn/shop/files/leather-mini-leather-tote-purse-handbag-black-3.jpg",
+            "price": 545.00,
+            "rate": 4.6,
+            "total_sold": 8795
+        },
+        {
+            "id": 9,
+            "name": "Zonio Super Watch",
+            "description": "Turtle.' These words were followed by a row of lodging houses, and behind them a new idea to.",
+            "image_url": "https://fossil.scene7.com/is/image/FossilPartners/ZO9296_main?$zodiac_hi-res$",
+            "price": 850.00,
+            "rate": 4.6,
+            "total_sold": 8795
+        },
+        {
+            "id": 10,
+            "name": "Golden Ring Watch",
+            "description": "Rabbit's voice along--'Catch him, you by the English, who wanted leaders, and had been would have.",
+            "image_url": "https://dimg.dillards.com/is/image/DillardsZoom/main/fossil-gold-tone-stainless-steel-ring-watch/00000000_zi_ceb83638-ce13-4cd1-a539-5aca241d33ed.jpg",
+            "price": 790.00,
+            "rate": 4.8,
+            "total_sold": 7461
+        }
+    ]
+}
+,
   "product_details": {
-    "name": "typicode"
-  }
+            "id": 1,
+            "name": "Snake Leather Bag",
+            "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
+            "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
+            "price": 458.00,
+            "rate": 4.5,
+            "total_sold": 8795
+        }
 }
