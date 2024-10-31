@@ -18,22 +18,6 @@
                 "description": "Get discount for every\norder. only valial for today",
                 "image_url": "https://w7.pngwing.com/pngs/17/345/png-transparent-tote-bag-advertising-mail-handbag-poster-design-luggage-bags-poster-flyer.png",
                 "discount": 60
-            },
-            {
-                "id": 6,
-                "key": null,
-                "name": "Weekends Deals!",
-                "description": "Get discount for every\norder. only valial for today",
-                "image_url": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlNl9taW5pbWFsX2hlYWRwaG9uZV9pbl90aGVfc3R5bGVfb2ZfYWVzdGhldGljX25lb185ZWJhYmU3Yi0wNmM5LTQzMTItODI3Yy02M2FlYTMzMDFmOTFfMS5wbmc.png",
-                "discount": 77
-            },
-            {
-                "id": 7,
-                "key": null,
-                "name": "Black Friday",
-                "description": "Get discount for every\norder. only valial for today",
-                "image_url": "https://w1.pngwing.com/pngs/716/918/png-transparent-poster-shoe-sneakers-shoe-shop-sports-xtep-blue-white.png",
-                "discount": 20
             }
         ],
         "MAIN": [
@@ -211,6 +195,33 @@
             "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
             "price": 458.00,
             "rate": 4.5,
-            "total_sold": 8795
+            "total_sold": 8795,
+            "category": null,
+    "sizes":[
+      {
+        
+                "id":1,
+                "shortcut":"S",
+                "name":"small"
+      },
+      {
+        
+                "id":1,
+                "shortcut":"L",
+                "name":"large"
+      }
+    ],
+            "colors":[
+              {
+                "id":1,
+                "hex":"#000000",
+                "name":"black"
+              },
+              {
+                "id":1,
+                "hex":"#ff0000",
+                "name":"red"
+              }
+            ]
         }
 }
