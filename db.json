@@ -7,8 +7,8 @@
           "id": 4,
           "key": null,
           "name": "Today’s Special!",
-          "description": "Get discount for every\norder. only valial for today",
-          "image_url": "https://static.vecteezy.com/system/resources/thumbnails/024/841/285/small_2x/wireless-headphone-isolated-on-transparent-background-high-quality-bluetooth-headphone-for-advertising-and-product-catalogs-generative-ai-png.png",
+          "description": "Get new discount for every\norder. only valial for today",
+          "image_url": "https://png.pngtree.com/png-clipart/20221013/ourmid/pngtree-simulation-cosmetics-product-sample-skin-care-essential-oil-png-image_6158599.png",
           "discount": 77
         },
         {
@@ -16,7 +16,7 @@
           "key": null,
           "name": "New Arrivals",
           "description": "Get discount for every\norder. only valial for today",
-          "image_url": "https://png.pngtree.com/png-clipart/20221013/ourmid/pngtree-simulation-cosmetics-product-sample-skin-care-essential-oil-png-image_6158599.png",
+          "image_url": "https://static.vecteezy.com/system/resources/thumbnails/024/841/285/small_2x/wireless-headphone-isolated-on-transparent-background-high-quality-bluetooth-headphone-for-advertising-and-product-catalogs-generative-ai-png.png",
           "discount": 60
         }
       ],
