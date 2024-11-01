@@ -200,7 +200,7 @@
       "name": "name",
       "description": "description",
       "image_url": "image_url",
-      "discount": "discount"
+      "discount": 0
     },
     "sizes": [
       {
