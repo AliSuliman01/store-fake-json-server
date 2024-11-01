@@ -2,226 +2,229 @@
   "home_page_categories": {
     "success": true,
     "data": {
-        "OFFERS": [
-            {
-                "id": 4,
-                "key": null,
-                "name": "Today’s Special!",
-                "description": "Get discount for every\norder. only valial for today",
-                "image_url": "https://e7.pngegg.com/pngimages/154/417/png-clipart-nikon-d610-nikon-d600-digital-slr-single-lens-reflex-camera-camara-grafica-lens-camera-lens.png",
-                "discount": 77
-            },
-            {
-                "id": 5,
-                "key": null,
-                "name": "New Arrivals",
-                "description": "Get discount for every\norder. only valial for today",
-                "image_url": "https://w7.pngwing.com/pngs/17/345/png-transparent-tote-bag-advertising-mail-handbag-poster-design-luggage-bags-poster-flyer.png",
-                "discount": 60
-            }
-        ],
-        "MAIN": [
-            {
-                "id": 8,
-                "key": null,
-                "name": "Clothes",
-                "description": null,
-                "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rpb_clothing_icon.svg",
-                "discount": null
-            },
-            {
-                "id": 9,
-                "key": null,
-                "name": "Shoes",
-                "description": null,
-                "image_url": "https://www.svgrepo.com/show/201120/shoe.svg",
-                "discount": null
-            },
-            {
-                "id": 10,
-                "key": null,
-                "name": "Electronics",
-                "description": null,
-                "image_url": "https://www.svgrepo.com/show/325134/electronics-chip.svg",
-                "discount": null
-            },
-            {
-                "id": 11,
-                "key": null,
-                "name": "Bags",
-                "description": null,
-                "image_url": "https://www.svgrepo.com/show/43071/shopping-bag.svg",
-                "discount": null
-            },
-            {
-                "id": 12,
-                "key": null,
-                "name": "Toys",
-                "description": null,
-                "image_url": "https://www.svgrepo.com/show/267679/rocking-horse-toy.svg",
-                "discount": null
-            },
-            {
-                "id": 13,
-                "key": null,
-                "name": "Jewelry",
-                "description": null,
-                "image_url": "https://pic.onlinewebfonts.com/thumbnails/icons_205432.svg",
-                "discount": null
-            },
-            {
-                "id": 14,
-                "key": null,
-                "name": "Kitchen",
-                "description": null,
-                "image_url": "https://www.svgrepo.com/show/125660/chef.svg",
-                "discount": null
-            },
-            {
-                "id": 15,
-                "key": null,
-                "name": "Watch",
-                "description": null,
-                "image_url": "https://assets.dryicons.com/uploads/icon/svg/5752/9029275f-bf56-4c10-901d-bcac65ae062c.svg",
-                "discount": null
-            }
-        ],
-        "POPULAR": [
-            {
-                "id": 8,
-                "key": null,
-                "name": "clothes",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 9,
-                "key": null,
-                "name": "electronics",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 10,
-                "key": null,
-                "name": "bags",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 11,
-                "key": null,
-                "name": "toys",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 12,
-                "key": null,
-                "name": "jewelry",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 13,
-                "key": null,
-                "name": "kitchen",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 14,
-                "key": null,
-                "name": "watch",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            },
-            {
-                "id": 15,
-                "key": null,
-                "name": "shoes",
-                "description": null,
-                "image_url": null,
-                "discount": null
-            }
-        ]
+      "OFFERS": [
+        {
+          "id": 4,
+          "key": null,
+          "name": "Today’s Special!",
+          "description": "Get discount for every\norder. only valial for today",
+          "image_url": "https://e7.pngegg.com/pngimages/154/417/png-clipart-nikon-d610-nikon-d600-digital-slr-single-lens-reflex-camera-camara-grafica-lens-camera-lens.png",
+          "discount": 77
+        },
+        {
+          "id": 5,
+          "key": null,
+          "name": "New Arrivals",
+          "description": "Get discount for every\norder. only valial for today",
+          "image_url": "https://w7.pngwing.com/pngs/17/345/png-transparent-tote-bag-advertising-mail-handbag-poster-design-luggage-bags-poster-flyer.png",
+          "discount": 60
+        }
+      ],
+      "MAIN": [
+        {
+          "id": 8,
+          "key": null,
+          "name": "Clothes",
+          "description": null,
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rpb_clothing_icon.svg",
+          "discount": null
+        },
+        {
+          "id": 9,
+          "key": null,
+          "name": "Shoes",
+          "description": null,
+          "image_url": "https://www.svgrepo.com/show/201120/shoe.svg",
+          "discount": null
+        },
+        {
+          "id": 10,
+          "key": null,
+          "name": "Electronics",
+          "description": null,
+          "image_url": "https://www.svgrepo.com/show/325134/electronics-chip.svg",
+          "discount": null
+        },
+        {
+          "id": 11,
+          "key": null,
+          "name": "Bags",
+          "description": null,
+          "image_url": "https://www.svgrepo.com/show/43071/shopping-bag.svg",
+          "discount": null
+        },
+        {
+          "id": 12,
+          "key": null,
+          "name": "Toys",
+          "description": null,
+          "image_url": "https://www.svgrepo.com/show/267679/rocking-horse-toy.svg",
+          "discount": null
+        },
+        {
+          "id": 13,
+          "key": null,
+          "name": "Jewelry",
+          "description": null,
+          "image_url": "https://pic.onlinewebfonts.com/thumbnails/icons_205432.svg",
+          "discount": null
+        },
+        {
+          "id": 14,
+          "key": null,
+          "name": "Kitchen",
+          "description": null,
+          "image_url": "https://www.svgrepo.com/show/125660/chef.svg",
+          "discount": null
+        },
+        {
+          "id": 15,
+          "key": null,
+          "name": "Watch",
+          "description": null,
+          "image_url": "https://assets.dryicons.com/uploads/icon/svg/5752/9029275f-bf56-4c10-901d-bcac65ae062c.svg",
+          "discount": null
+        }
+      ],
+      "POPULAR": [
+        {
+          "id": 8,
+          "key": null,
+          "name": "clothes",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 9,
+          "key": null,
+          "name": "electronics",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 10,
+          "key": null,
+          "name": "bags",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 11,
+          "key": null,
+          "name": "toys",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 12,
+          "key": null,
+          "name": "jewelry",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 13,
+          "key": null,
+          "name": "kitchen",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 14,
+          "key": null,
+          "name": "watch",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        },
+        {
+          "id": 15,
+          "key": null,
+          "name": "shoes",
+          "description": null,
+          "image_url": null,
+          "discount": null
+        }
+      ]
     }
-}
-,
+  },
   "products_of_category": {
     "success": true,
     "data": [
-        {
-            "id": 1,
-            "name": "Snake Leather Bag",
-            "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
-            "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
-            "price": 458.00,
-            "rate": 4.5,
-            "total_sold": 8795
-        },
-        {
-            "id": 2,
-            "name": "Leather Casual Suit",
-            "description": "This question the Dodo in an offended tone, 'so I can't see you?' She was looking at everything.",
-            "image_url": "https://img.fruugo.com/product/9/67/177401679_0340_0340.jpg",
-            "price": 420.00,
-            "rate": 4.3,
-            "total_sold": 8878
-        },
-        {
-            "id": 3,
-            "name": "Black Leather Bag",
-            "description": "I've said as yet.' 'A cheap sort of meaning in them, after all. \"--SAID I COULD NOT SWIM--\" you.",
-            "image_url": "https://accessorizelondon.in/cdn/shop/products/MA-69003803001_1_a53ec039-01c3-46fe-9a64-3d01a6b7e5d5.jpg",
-            "price": 765.00,
-            "rate": 4.9,
-            "total_sold": 8147
-        }
-    ]
-}
-,
-  "product_details": {
-            "id": 1,
-            "name": "Snake Leather Bag",
-            "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
-            "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
-            "price": 458.00,
-            "rate": 4.5,
-            "total_sold": 8795,
-            "category": null,
-    "sizes":[
       {
-        
-                "id":1,
-                "shortcut":"S",
-                "name":"small"
+        "id": 1,
+        "name": "Snake Leather Bag",
+        "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
+        "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
+        "price": 458.00,
+        "rate": 4.5,
+        "total_sold": 8795
       },
       {
-        
-                "id":1,
-                "shortcut":"L",
-                "name":"large"
+        "id": 2,
+        "name": "Leather Casual Suit",
+        "description": "This question the Dodo in an offended tone, 'so I can't see you?' She was looking at everything.",
+        "image_url": "https://img.fruugo.com/product/9/67/177401679_0340_0340.jpg",
+        "price": 420.00,
+        "rate": 4.3,
+        "total_sold": 8878
+      },
+      {
+        "id": 3,
+        "name": "Black Leather Bag",
+        "description": "I've said as yet.' 'A cheap sort of meaning in them, after all. \"--SAID I COULD NOT SWIM--\" you.",
+        "image_url": "https://accessorizelondon.in/cdn/shop/products/MA-69003803001_1_a53ec039-01c3-46fe-9a64-3d01a6b7e5d5.jpg",
+        "price": 765.00,
+        "rate": 4.9,
+        "total_sold": 8147
+      }
+    ]
+  },
+  "product_details": {
+    "id": 1,
+    "name": "Snake Leather Bag",
+    "description": "Caterpillar; and it set to partners--' '--change lobsters, and retire in same order,' continued.",
+    "image_url": "https://i.pinimg.com/originals/07/1f/d1/071fd15f1e21fd4539df282537320e79.jpg",
+    "price": 458.00,
+    "rate": 4.5,
+    "total_sold": 8795,
+    "category": {
+      "id": 1,
+      "key": "key",
+      "name": "name",
+      "description": "description",
+      "image_url": "image_url",
+      "discount": "discount"
+    },
+    "sizes": [
+      {
+        "id": 1,
+        "shortcut": "S",
+        "name": "small"
+      },
+      {
+        "id": 1,
+        "shortcut": "L",
+        "name": "large"
       }
     ],
-            "colors":[
-              {
-                "id":1,
-                "hex":"#000000",
-                "name":"black"
-              },
-              {
-                "id":1,
-                "hex":"#ff0000",
-                "name":"red"
-              }
-            ]
-        }
+    "colors": [
+      {
+        "id": 1,
+        "hex": "#000000",
+        "name": "black"
+      },
+      {
+        "id": 1,
+        "hex": "#ff0000",
+        "name": "red"
+      }
+    ]
+  }
 }
